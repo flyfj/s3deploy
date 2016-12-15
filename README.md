@@ -1,11 +1,11 @@
-# s3deploy
+# s3go
 Deploy a local folder to an s3 bucket.
 
 If you are uploading a website, make sure you have configured your bucket to host static site.
 
 # Install
 
-`pip install s3deploy`
+`pip install s3go`
 
 # How to use
 
@@ -27,7 +27,7 @@ A sample config file is like this:
 ## Upload to bucket
 
 ```
-from s3deploy import s3deploy
+from s3go import s3go
 
-s3deploy.publish("path/to/config_fn")
+s3go.publish("path/to/config_fn")
 ```
