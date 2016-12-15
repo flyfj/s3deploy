@@ -1,0 +1,8 @@
+{
+"access_key":"YOUR ACCESS KEY",
+"secret_key":"YOUR SECRET KEY",
+"bucket_name": "YOUR BUCKET",
+"local_folder": "YOUR LOCAL FOLDER",
+"bucket_folder": "YOUR BUCKET FOLDER",
+"region":"YOUR REGION"
+}
